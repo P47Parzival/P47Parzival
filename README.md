@@ -1,4 +1,4 @@
-![8642986](https://github.com/user-attachments/assets/097513f5-3abd-4d6c-93cf-3dcf648813f9)
+<img src="https://github.com/user-attachments/assets/6674802b-1f62-4017-80d6-429133073045" height="200">
 
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">A passionate frontend developer with a sparkle of MERN and DSA</h3>
