@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-center;">
+<div style="display: items-center">
   <img src="https://github.com/user-attachments/assets/a48cd02f-3ca3-4b6e-a6e3-f3905d9c3e57" height="400">
 </div>
 
