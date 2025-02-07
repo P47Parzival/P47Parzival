@@ -1,3 +1,5 @@
+![8642986](https://github.com/user-attachments/assets/097513f5-3abd-4d6c-93cf-3dcf648813f9)
+
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">A passionate frontend developer with a sparkle of MERN and DSA</h3>
 
