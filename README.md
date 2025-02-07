@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/a48cd02f-3ca3-4b6e-a6e3-f3905d9c3e57" height="500">
+  <img src="https://github.com/user-attachments/assets/a48cd02f-3ca3-4b6e-a6e3-f3905d9c3e57" height="300">
 </div>
 
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
