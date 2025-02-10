@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/a48cd02f-3ca3-4b6e-a6e3-f3905d9c3e57" height="350">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a48cd02f-3ca3-4b6e-a6e3-f3905d9c3e57" height="350">
+</p>
 
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">A passionate frontend developer with a sparkle of MERN and DSA</h3>
