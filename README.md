@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">A passionate frontend developer with a sparkle of MERN and DSA</h3>
+<h3 align="center">A passionate Developer with a sparkle of MERN and DSA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p47parzival&label=Profile%20views&color=0e75b6&style=flat" alt="p47parzival" /> </p>
 
