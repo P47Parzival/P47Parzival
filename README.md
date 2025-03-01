@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p47parzival&label=Profile%20views&color=0e75b6&style=flat" alt="p47parzival" /> </p>
 
-- 🔭 I’m currently working on [Custom cursor extension for Google](https://github.com/P47Parzival/Cursor-extension)
-
+- 🔭 I’m currently working on.
 - 🌱 I’m currently learning **Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://dhruvmali.netlify.app/](https://dhruvmali.netlify.app/)
