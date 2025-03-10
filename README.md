@@ -9,12 +9,6 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://dhruvmali.netlify.app/" style="animation: blinker 1s linear infinite;">Here!</a>
 
-<style>
-@keyframes blinker {
-  50% { opacity: 0; }
-}
-</style>
-
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **malidhruv555@gmail.com**
