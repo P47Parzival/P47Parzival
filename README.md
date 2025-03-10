@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on learning elixir and phoenix.
 - 🌱 I’m currently learning **Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://dhruvmali.netlify.app/](https://dhruvmali.netlify.app/)
+- 👨‍💻 All of my projects are available at [here](https://dhruvmali.netlify.app/)
 
 - 💬 Ask me about **Anything**
 
