@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p47parzival&label=Profile%20views&color=0e75b6&style=flat" alt="p47parzival" /> </p>
 
 - 🔭 I’m currently working on learning elixir and phoenix.
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Langchain, Langsmith, Langgraph, Langflow**
 
 - 👨‍💻 All of my projects are available at <a href="https://dhruvmali.netlify.app/" style="animation: blinker 1s linear infinite;">Here!</a>
 
