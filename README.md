@@ -26,6 +26,6 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=P47Parzival&layout=donut)](https://github.com/P47Parziva/github-readme-stats)
 
-![](https://github-profile-trophy.vercel.app/?username=P47Parzival&theme=light&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=P47Parzival&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p47parzival&" alt="p47parzival" /></p>
