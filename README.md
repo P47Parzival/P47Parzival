@@ -15,11 +15,9 @@
 
 - 🔭 I’m currently working on **Satellite and ground data Image processing**
 - 🌱 I’m currently learning **Langraph, LangSmith, BCI**
-- 👯 I’m looking to collaborate on **anything**
-- 🤝 I’m looking for help with **everything**
 
 - 📫 How to reach me **malidhruv555@gmail.com**
-- ⚡ Fun fact **I am always coding or thinking what to code next**
+- ⚡ Fun fact **I am always thinking**
 
 ---
 
