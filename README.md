@@ -18,21 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=p47parzival&show_icons=true&locale=en" alt="your-username" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p47parzival" alt="your-username" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=p47parzival&show_icons=true&locale=en&layout=compact" alt="your-username" />
-</p>
-
-![](https://github-profile-trophy.vercel.app/?username=P47Parzival&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## 📫 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/dhruvmali/" target="blank">
