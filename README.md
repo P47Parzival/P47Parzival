@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<!-- <h3 align="center">A passionate [Your Profession / Field] from [Your Country]</h3> -->
+<h3 align="center">AI can't take my job, cause i don't have a job</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
